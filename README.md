@@ -1,4 +1,4 @@
-### COMP90018 Mobile Computing Systems Programming
+### COMP90020 Distributed Algorithms
 
 Mobile Computing Game: BrickBreaker
 
@@ -20,12 +20,11 @@ are defined in the XML files, if you want to make your own, just edit some of th
 them give you extra points and other make you lose. Scores and Rankings are updated while you're playing you can check yours at the top of the screen.
 
 ### Developers:
-* Andres Chaves (Networking - Scoring - Levels XML )
-* Oscar Correa (Framework Architecture - Game play & physics)
-* Diego Montufar (Graphic Design - Special Effects - Actions/Animations)
-* Juan Zaldumbide (Networking - Screen Transitions - Player data & configuration)
+* Andres Chaves 
+* Diego Montufar
+* Ilkan Esiyok
 
-### Group ID:  2
+### Group ID:  5
 
 ### Folder structure:
 
