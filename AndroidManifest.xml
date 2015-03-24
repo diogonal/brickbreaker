@@ -20,7 +20,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name=".AndroidLauncher"
+            android:name="au.edu.unimelb.comp90020.brickbreaker.AndroidLauncher"
             android:configChanges="keyboard|keyboardHidden|orientation"
             android:label="@string/title_activity_brick_breaker" >
             <intent-filter>

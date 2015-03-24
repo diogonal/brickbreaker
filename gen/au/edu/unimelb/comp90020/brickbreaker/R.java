@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package au.edu.unimelb.comp90018.brickbreaker;
+package au.edu.unimelb.comp90020.brickbreaker;
 
 public final class R {
     public static final class attr {
